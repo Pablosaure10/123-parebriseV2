@@ -1,1 +1,24 @@
-
+.question_texte {
+    margin-bottom: 1em;
+}
+.question_texte label {
+    display: inline-block;
+    width : 75px;
+}
+.question_radio {
+    margin-bottom: 1em;
+}
+.question_radio ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.question_radio ul li {
+    margin-bottom: 0.5em;
+}
+.bonne_reponse {
+    background-color: #b7e6b7;
+}
+.mauvaise_reponse {
+    background-color: #ffc4c4;
+}
